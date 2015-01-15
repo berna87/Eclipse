@@ -1,7 +1,6 @@
 package pendulo;
 
 public class Pendulo {
-	private int prueba = 0;
 	private static final double PI = 3.14;
 	private double longitud; //metros
 	private static final double GRAVEDAD = 9.8;
